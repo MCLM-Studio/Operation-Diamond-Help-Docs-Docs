@@ -10,11 +10,11 @@ description: 量力而行~
 
 <figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>进入地图选择界面</p></figcaption></figure>
 
-左键点击你想要进入的地图即可，如果你想要了解更多[地图](broken-reference)的相关知识，请点击蓝字
+左键点击你想要进入的地图即可，如果你想要了解更多[地图](/broken/pages/l1eGSROhh98TmHuI6foN)的相关知识，请点击蓝字
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p>加入<a href="../../di-tu/zong-lan/nong-chang.md">农场</a>地图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p>加入<a href="/broken/pages/0g5sCZXsukSFLmeIYLnt">农场</a>地图</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>加入<a href="../../di-tu/zong-lan/ji-chang.md">机场</a>地图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>加入<a href="/broken/pages/amlpD5PMVAYax8JwS2Bq">机场</a>地图</p></figcaption></figure>
 
 如果显示 你不是任何队伍的队长 请仔细查看[创建队伍](zu-dui-xi-tong.md)
 

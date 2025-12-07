@@ -10,7 +10,7 @@ description: 记住，在碧微国只有死人才是忠诚的
 
 千万不要和不信任陌生人组队，因为队友有可能才是你最大的敌人
 
-使用组队指令 [/da](../../zhi-ling/zong-lan/da-diamondaction-zu-dui-xi-tong.md) 来组队，具体用法请点击蓝字
+使用组队指令 [/da](/broken/pages/W3UNAuKhArJaEc3qOhip) 来组队，具体用法请点击蓝字
 
 <mark style="color:red;">你需要在任意队伍内才能加入地图，哪怕队伍只有你一个人</mark>
 

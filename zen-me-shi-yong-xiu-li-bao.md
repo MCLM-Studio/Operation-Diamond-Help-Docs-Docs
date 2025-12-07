@@ -10,8 +10,7 @@ description: 局内修复物品的唯一方法
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="xin-shou-kuai-su-shang-shou/you-xi-liu-cheng/zhan-qian-zhun-bei/xi-tong-shang-dian.md">商店</a> -> 消耗品 -> 第6页</p></figcaption></figure>
 
-\
-
+<br>
 
 不同的修理包的属性不一样，怎么查看属性信息请参考[鉴定物品](xin-shou-kuai-su-shang-shou/zen-me-jian-ding-wu-pin.md)
 
