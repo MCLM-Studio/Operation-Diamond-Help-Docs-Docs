@@ -4,15 +4,15 @@ description: 局内修复物品的唯一方法
 
 # 怎么使用修理包
 
-你不能在安全区（大厅）使用修理包，如果你想要在安全区（大厅）修理物品，请使用[修复装备](xin-shou-kuai-su-shang-shou/you-xi-liu-cheng/xiu-fu-shou-sun-de-zhuang-bei.md)功能
+你不能在安全区（大厅）使用修理包，如果你想要在安全区（大厅）修理物品，请使用[修复装备](you-xi-liu-cheng/xiu-fu-shou-sun-de-zhuang-bei.md)功能
 
 在对局内，你需要使用修理包来回复你想要修复的受损物品
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="xin-shou-kuai-su-shang-shou/you-xi-liu-cheng/zhan-qian-zhun-bei/xi-tong-shang-dian.md">商店</a> -> 消耗品 -> 第6页</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="you-xi-liu-cheng/zhan-qian-zhun-bei/xi-tong-shang-dian.md">商店</a> -> 消耗品 -> 第6页</p></figcaption></figure>
 
 <br>
 
-不同的修理包的属性不一样，怎么查看属性信息请参考[鉴定物品](xin-shou-kuai-su-shang-shou/zen-me-jian-ding-wu-pin.md)
+不同的修理包的属性不一样，怎么查看属性信息请参考[鉴定物品](zen-me-jian-ding-wu-pin.md)
 
 修理包的属性：
 
@@ -22,7 +22,7 @@ description: 局内修复物品的唯一方法
 * 耐用度：可用次数，每回一次耐久度扣一次
 * 估价：在系统商店出售此修理包能赚多少钱
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>简易修理袋的属性信息</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>简易修理袋的属性信息</p></figcaption></figure>
 
 修理包的使用条件：
 
@@ -31,7 +31,7 @@ description: 局内修复物品的唯一方法
 * 左键键点击开始使用修理包。
 * 目标物品必须有保护等级或穿透等级，且修理包的修理等级必须大于或等于目标物品的等级。
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>保持蹲下状态，主手持有修理包，副手持有需要修理的物品</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>保持蹲下状态，主手持有修理包，副手持有需要修理的物品</p></figcaption></figure>
 
 修理过程：\
 修理过程在启用时间后开始。\

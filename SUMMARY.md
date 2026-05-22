@@ -23,9 +23,6 @@
   * [快捷出售](xin-shou-kuai-su-shang-shou/you-xi-liu-cheng/kuai-jie-chu-shou.md)
 * [怎么鉴定物品](xin-shou-kuai-su-shang-shou/zen-me-jian-ding-wu-pin.md)
 * [怎么回复生命值](xin-shou-kuai-su-shang-shou/zen-me-hui-fu-sheng-ming-zhi.md)
-
-***
-
-* [铁门怎么打开](tie-men-zen-me-da-kai.md)
-* [非原版护甲机制](fei-yuan-ban-hu-jia-ji-zhi.md)
-* [怎么使用修理包](zen-me-shi-yong-xiu-li-bao.md)
+* [铁门怎么打开](xin-shou-kuai-su-shang-shou/tie-men-zen-me-da-kai.md)
+* [非原版护甲机制](xin-shou-kuai-su-shang-shou/fei-yuan-ban-hu-jia-ji-zhi.md)
+* [怎么使用修理包](xin-shou-kuai-su-shang-shou/zen-me-shi-yong-xiu-li-bao.md)
