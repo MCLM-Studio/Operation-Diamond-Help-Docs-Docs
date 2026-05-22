@@ -6,3 +6,11 @@ coverY: 0
 
 # 欢迎访问钻石行动教程文档
 
+{% updates format="full" %}
+{% update date="2026-05-22" %}
+## 你正在访问的是
+
+
+{% endupdate %}
+{% endupdates %}
+
