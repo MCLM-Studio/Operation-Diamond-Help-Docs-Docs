@@ -7,7 +7,7 @@ coverY: 0
 # 欢迎访问钻石行动教程文档
 
 {% hint style="info" %}
-你正在访问的是 钻石行动v1 的教程文档，钻石行动v1 的完全重构版本 钻石行动v2 已定档于 2026年9月1日 上线，用于替代 钻石行动v1 ，此文档不适用于 钻石行动v2
+你正在访问的是 <mark style="color:$warning;">钻石行动v1</mark> 的教程文档，<mark style="color:$warning;">钻石行动v1</mark> 的完全重构版本 <mark style="color:$success;">钻石行动v2</mark> 已定档于 2026年9月1日 上线，用于替代 钻石行动v1 ，此文档<mark style="color:$danger;">**不适用**</mark>于 <mark style="color:$success;">钻石行动v2</mark>
 {% endhint %}
 
 {% hint style="info" %}
