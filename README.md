@@ -6,11 +6,10 @@ coverY: 0
 
 # 欢迎访问钻石行动教程文档
 
-{% updates format="full" %}
-{% update date="2026-05-22" %}
-## 你正在访问的是
+{% hint style="info" %}
+你正在访问的是 钻石行动v1 的教程文档，钻石行动v1 的完全重构版本 钻石行动v2 已定档于 2026年9月1日 上线，用于替代 钻石行动v1 ，此文档不适用于 钻石行动v2
+{% endhint %}
 
-
-{% endupdate %}
-{% endupdates %}
-
+{% hint style="info" %}
+此文档已长时间未维护，其中可能含有少量过时的内容
+{% endhint %}
